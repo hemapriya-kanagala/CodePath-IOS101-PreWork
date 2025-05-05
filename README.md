@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *ColorPop*
 
 Submitted by: **Hemapriya Kanagala**
 
